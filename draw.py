@@ -58,7 +58,7 @@ def generate_sphere( points, cx, cy, cz, r, step ):
             add_point(ret_matrix, x, y, z)
             counter += 1
         count += 1
-    print(ret_matrix)
+    #print(ret_matrix)
     return ret_matrix
 
     #pass
